@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi! My name is Sharon Babu and I'm a Programmer
 
 ---
@@ -8,10 +7,10 @@
 
 ## 🔗 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharon_babu_207/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/@sharon_babu_207)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/channels/@me)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sharonbabu857@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharon-babu-9a5957301)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sharon_babu_207)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server-code)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonbabu857@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-babu-9a5957301)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/sharonbabu876/)
 
 ## 🧑‍💻 Skills & Tools
@@ -32,6 +31,7 @@
 
 ## 🎵 Spotify Recently Played
 [![Listen on Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif?si=VjqT7ZzFSuKm-9R8RDIMGA)
+
 https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif?si=VjqT7ZzFSuKm-9R8RDIMGA
 
 ---
